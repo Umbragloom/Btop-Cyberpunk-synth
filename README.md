@@ -1,5 +1,5 @@
 # Btop-Cyberpunk-synth
-Colorscheme made for the [BTOP++](https://github.com/aristocratos/btop) (Resource monitor that shows usage and stats for processor, memory, disks, etc) based off the colors of the [Cyberpunk-Neon](https://github.com/Roboron3042/Cyberpunk-Neon)color scheme.
+Colorscheme made for [BTOP++](https://github.com/aristocratos/btop) (Resource monitor that shows usage and stats for processor, memory, disks, etc) based off the colors of the [Cyberpunk-Neon](https://github.com/Roboron3042/Cyberpunk-Neon)color scheme.
 
 
 <p align="center">
