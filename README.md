@@ -3,9 +3,9 @@ Colorscheme made for the [BTOP++] (https://github.com/aristocratos/btop) (Resour
 
 
 <p align="center">
-    <a href="https://github.com/Umbragloom/Btop-Cyberpunk-synth/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/btop?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-    <a href="https://github.com/Umbragloom/Btop-Cyberpunk-synth/issues"><img src="https://img.shields.io/github/issues/catppuccin/btop?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-    <a href="https://github.com/Umbragloom/Btop-Cyberpunk-synth/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/btop?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+    <a href="https://github.com/Umbragloom/Btop-Cyberpunk-synth/stargazers"><img src="https://img.shields.io/github/stars/Umbragloom/Btop-Cyberpunk-synth?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+    <a href="https://github.com/Umbragloom/Btop-Cyberpunk-synth/issues"><img src="https://img.shields.io/github/issues/Umbragloom/Btop-Cyberpunk-synth?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+    <a href="https://github.com/Umbragloom/Btop-Cyberpunk-synth/contributors"><img src="https://img.shields.io/github/contributors/Umbragloom/Btop-Cyberpunk-synth?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 # Examples
