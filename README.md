@@ -26,8 +26,8 @@ With Transparency :
 # Usage
 
 1. Clone repo locally.
-2. Make a new directory in `$HOME/usr/.config/btop`{bash} called themes.
-3. Copy theme to `$HOME/usr/.config/btop/themes`{bash}.
+2. Make a new directory in `$HOME/usr/.config/btop` called themes.
+3. Copy theme to `$HOME/usr/.config/btop/themes`.
 4. Pick cyberpunk-synth from the theme picker!
 
 # Thanks to:
