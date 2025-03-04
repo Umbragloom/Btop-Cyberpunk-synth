@@ -40,7 +40,7 @@ With Transparency :
 
 2. go to the cloned directory
 
-3. copy the file with .theme extension to the btop directory - /usr/share/btop/themes/ 
+3. copy the file with .theme extension to the btop directory - `/usr/share/btop/themes/`
 
 ```bash
 sudo cp cyberpunk-synth.theme /usr/share/btop/themes
