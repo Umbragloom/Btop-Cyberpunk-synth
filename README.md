@@ -50,3 +50,8 @@ sudo cp cyberpunk-synth.theme /usr/share/btop/themes
 5. Open the Options tab and select the Cyberpunk-Synth theme
 
 6. Enjoy the freshly installed theme
+
+
+# NOITCE
+
+This is a `dev` branch, if you want to make changes but you don't want to make a fork and submit a PR, to make changes to the main branch you need to create a fork and submit a PR
