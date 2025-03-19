@@ -23,6 +23,12 @@ With Transparency :
 <img src="https://raw.githubusercontent.com/Umbragloom/Btop-Cyberpunk-synth/main/assets/Cyberpunk_Theme_Transparent_Background.png"/>
 </p>
 
+On Windows(Windows Terminal) :
+
+<p aling="center">
+<img src="https://github.com/CubicArnament/Btop-Cyberpunk-synth/blob/main/assets/Cyberpunk_Theme_Windows_Btop.png?raw=true"/>
+</p>
+
 # Usage
 
 1. Clone repo locally.
