@@ -14,7 +14,7 @@ I left most of the software layout and customization standard to allow others to
 On Windows(Windows Terminal) :
 
 <p aling="center">
-<img src="https://github.com/CubicArnament/Btop-Cyberpunk-synth/blob/main/assets/Cyberpunk_Theme_Windows_Btop.png?raw=true"/>
+<img src="https://github.com/CubicArnament/Btop-Cyberpunk-synth/blob/dev/assets/Cyberpunk_Theme_Windows_Btop.png?raw=true"/>
 </p>
 
 # Usage
@@ -45,7 +45,9 @@ sudo cp cyberpunk-synth.theme /usr/share/btop/themes
 
 6. Enjoy the freshly installed theme
 
+> [!NOTE]
+>This is a `dev` branch, if you want to make changes but you don't want to make a fork and submit a PR, to make changes to the main branch you need to create a fork and submit a PR
 
-# NOITCE
-
-This is a `dev` branch, if you want to make changes but you don't want to make a fork and submit a PR, to make changes to the main branch you need to create a fork and submit a PR
+## TODO
+- [x] Добавить скриншот Windows Terminal
+- [ ] Добавить скриншот Linux
