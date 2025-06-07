@@ -1,6 +1,6 @@
 # Btop-Cyberpunk-synth
-Colorscheme made for [BTOP++](https://github.com/aristocratos/btop) (Resource monitor that shows usage and stats for processor, memory, disks, etc) based off the colors of the [Cyberpunk-Neon](https://github.com/Roboron3042/Cyberpunk-Neon) color scheme.
 
+Colorscheme made for [BTOP++](https://github.com/aristocratos/btop) (Resource monitor that shows usage and stats for processor, memory, disks, etc) based off the colors of the [Cyberpunk-Neon](https://github.com/Roboron3042/Cyberpunk-Neon) color scheme.
 
 <p align="center">
     <a href="https://github.com/Umbragloom/Btop-Cyberpunk-synth/stargazers"><img src="https://img.shields.io/github/stars/Umbragloom/Btop-Cyberpunk-synth?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
@@ -9,7 +9,8 @@ Colorscheme made for [BTOP++](https://github.com/aristocratos/btop) (Resource mo
 </p>
 
 # Examples
-I left most of the software layout and customization standard to allow others to change what they would like. 
+
+I left most of the software layout and customization standard to allow others to change what they would like.
 
 With background color active:
 
@@ -23,6 +24,12 @@ With Transparency :
 <img src="https://raw.githubusercontent.com/Umbragloom/Btop-Cyberpunk-synth/main/assets/Cyberpunk_Theme_Transparent_Background.png"/>
 </p>
 
+On Windows(Windows Terminal) :
+
+<p aling="center">
+<img src="https://github.com/CubicArnament/Btop-Cyberpunk-synth/blob/main/assets/Cyberpunk_Theme_Windows_Btop.png?raw=true"/>
+</p>
+
 # Usage
 
 1. Clone repo locally.
@@ -30,11 +37,12 @@ With Transparency :
 3. Copy theme to `$HOME/usr/.config/btop/themes`.
 4. Pick cyberpunk-synth from the theme picker!
 
-# Thanks to:
-- [Aristocratos](https://github.com/aristocratos) for Btop!
-- [Roboron3042](https://github.com/Roboron3042) for the Cyberpunk-Neon Theme. 
+# Thanks to
 
-# There is also another way to install this theme.
+- [Aristocratos](https://github.com/aristocratos) for Btop!
+- [Roboron3042](https://github.com/Roboron3042) for the Cyberpunk-Neon Theme.
+
+# There is also another way to install this theme
 
 1. Clone the repo locally
 
@@ -45,7 +53,8 @@ With Transparency :
 ```bash
 sudo cp cyberpunk-synth.theme /usr/share/btop/themes
 ```
-4. Start btop and press Esc or M 
+
+4. Start btop and press Esc or M
 
 5. Open the Options tab and select the Cyberpunk-Synth theme
 
