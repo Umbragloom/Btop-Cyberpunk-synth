@@ -11,16 +11,10 @@ Colorscheme made for [BTOP++](https://github.com/aristocratos/btop) (Resource mo
 # Examples
 I left most of the software layout and customization standard to allow others to change what they would like. 
 
-With background color active:
+On Windows(Windows Terminal) :
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Umbragloom/Btop-Cyberpunk-synth/main/assets/Cyberpunk_Theme_Full_Background.png"/>
-</p>
-
-With Transparency :
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Umbragloom/Btop-Cyberpunk-synth/main/assets/Cyberpunk_Theme_Transparent_Background.png"/>
+<p aling="center">
+<img src="https://github.com/CubicArnament/Btop-Cyberpunk-synth/blob/dev/assets/Cyberpunk_Theme_Windows_Btop.png?raw=true"/>
 </p>
 
 # Usage
